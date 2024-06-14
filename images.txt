@@ -4,4 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-homeassistant/home-assistant:latest	
+--platform=linux/amd64 homeassistant/home-assistant
+--platform=linux/amd64 codercom/code-server
+--platform=linux/amd64 esphome/esphome
+--platform=linux/amd64 whyour/qinglong
+--platform=linux/amd64 linuxserver/heimdall
